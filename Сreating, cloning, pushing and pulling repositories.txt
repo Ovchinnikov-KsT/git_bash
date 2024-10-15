@@ -1,0 +1,6 @@
+- git init Ovchinnikov-KsT                                           //Создал свой репозиторий с таким же именем, как и имя пользователя в github
+- git clone git@github.com:Ovchinnikov-KsT/Ovchinnikov-KsT.git       //Клонировал этот репозиторий на свой компьютер в отдельную папку
+- git clone git@github.com:testrusau/testrusau.git                   //Клонировал репозиторий https://github.com/testrusau/testrusau в отдельную папку
+- git add .                                                          //В файле README.md поочередно заменил каждый блок на вашу информацию и командой git add добавил изменения
+- git commit -m "added info"                                         //Сделал коммит изменений 
+- git push                                                           //Отправил изменения в удаленный репозиторий
